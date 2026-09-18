@@ -5,7 +5,7 @@
 
 ## Erwartete Artefakte
 - README.md nach Schema (Problem, PM-Entscheidung, Architektur, Eval, Kosten/Latenz, Learnings)
-- meta.json gepflegt
+- meta.json gepflegt (status ausschließlich: planned | active | done)
 - evals/ mit Datensatz + Ergebnissen
 - docs/decisions.md mit datierten Entscheidungen
 
