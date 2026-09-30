@@ -1,24 +1,26 @@
+🇩🇪 [Deutsche Version](README_DE.md)
+
 # [Use Case Name]
 
 ## Problem
-[Welches Problem wird hier gelöst? Für wen?]
+[What problem does this solve? For whom?]
 
-## PM-Entscheidung
-[Welche Optionen wurden abgewogen? Warum diese Lösung?]
+## PM Decision
+[Which options were weighed? Why this solution?]
 
-## Architekturskizze
-[Kurze Beschreibung / Diagramm des technischen Ansatzes]
+## Architecture Sketch
+[Short description / diagram of the technical approach]
 
-## Evaluationsergebnisse
-[Wie wurde gemessen? Ergebnisse?]
+## Evaluation Results
+[How was it measured? Results?]
 
-## Kosten & Latenz
-- Kosten pro 1000 Requests: [Zahl]
-- p95-Latenz: [Zahl]
-- Qualitätsmetrik: [Zahl/Beschreibung]
+## Cost & Latency
+- Cost per 1000 requests: [number]
+- p95 latency: [number]
+- Quality metric: [number/description]
 
 ## Learnings
-[Was hat funktioniert, was nicht?]
+[What worked, what didn't?]
 
-## Was ich anders machen würde
-[Retrospektive]
+## What I Would Do Differently
+[Retrospective]
